@@ -9,3 +9,4 @@ Dibuat sebagai tugas praktikum Git & GitHub.
 - Efek interaktif menggunakan JavaScript  
 
 - Desain sederhana dan modern
+
